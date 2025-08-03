@@ -1,0 +1,31 @@
+{
+  "name": "blind-75-ts",
+  "version": "1.0.0",
+  "description": "Solutions for LeetCode's Blind 75 written in TypeScript.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yxL05/blind-75-ts.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yxL05/blind-75-ts/issues"
+  },
+  "homepage": "https://github.com/yxL05/blind-75-ts#readme",
+  "devDependencies": {
+    "@types/node": "^24.1.0",
+    "tsconfig-paths": "^4.2.0",
+    "tsx": "^4.20.3",
+    "typescript": "^5.9.2"
+  },
+  "type": "module",
+  "dependencies": {
+    "@datastructures-js/priority-queue": "^6.3.2",
+    "@datastructures-js/queue": "^4.2.3"
+  }
+}
